@@ -1,2 +1,2 @@
-# kasvu
+# Kasvu
 Kasvu Open Source
