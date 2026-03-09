@@ -1,5 +1,7 @@
 # Example: Leadership Transition
 
+> This is an illustrative example based on composite real-world patterns. The characters and organizations are fictional. The situations are not.
+
 ## Context
 
 Daniel inherited a customer success team of fourteen people at a software company. His predecessor had been in the role for four years and had built a team that was technically strong, process-heavy, and deeply uncomfortable with ambiguity.
@@ -56,7 +58,7 @@ Development was the slowest pillar to move. People who had been in execution mod
 
 ## What Daniel would do differently
 
-He would introduce the parable in his first week. He used it in week six, but looking back it would have named the cultural shift he was trying to make more clearly and more memorably than anything else he said in those early weeks.
+He would have started development conversations earlier. He introduced the 1:1 framework in week six, but looking back the team needed someone investing in their growth from week one, not just unfreezing their permission to act. Unfreezing permission and investing in development could have run in parallel from the start. The team would have moved faster on both.
 
 ## Outcome
 

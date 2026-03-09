@@ -29,7 +29,11 @@ Kasvu favors a cascading mentorship model.
 
 People who grow are expected to help others grow. This creates a multiplier effect in which development does not remain concentrated in a few individuals but spreads through the system.
 
-Investment in development should be intentional, not uniform. More energy should go toward people who are proactive, high-performing, and willing to convert opportunity into responsibility. This is not favoritism; it is stewardship of potential.
+In practice, cascading mentorship means that a leader's development investment does not stop with the people they directly manage. It moves through them. A leader develops a person. That person develops others. Over time the organization gains depth it never had to hire for.
+
+This works when development is treated as part of the job, not as a side activity. The leader's role is to give people real challenges, observe how they respond, provide honest feedback, and gradually expand their responsibility as their judgment earns it. Development without real stakes is training. Development with real stakes is growth.
+
+Investment in development should be intentional, not uniform. More energy should go toward people who are proactive, high-performing, and willing to convert opportunity into responsibility. This is not favoritism; it is stewardship of potential. A leader who invests equally in everyone regardless of appetite or readiness is not being fair — they are being comfortable. The gardener does not water every plant identically. They water what is growing.
 
 ## The Echo Effect
 
@@ -38,6 +42,10 @@ The objective of development in Kasvu is not only personal improvement.
 It is to create entrepreneurial leaders who become developers of others. Growth should echo outward. One person becomes stronger, helps another person become stronger, and over time the organization gains depth rather than just volume.
 
 This is the Echo Effect.
+
+The Echo Effect is not automatic. It requires leaders to explicitly ask the people they develop to develop others in turn. The question that activates it is simple: is there someone you are learning from right now, and is there someone you could be teaching? Those two questions together close the loop.
+
+When the Echo Effect is working, you can trace a line of growth across the organization — from a leader who invested in a person, to that person investing in another, to the organization carrying capability that no single hiring decision could have produced. The measure of a developer in Kasvu is not only how much they grew. It is how much they caused others to grow.
 
 ## How this pillar connects
 

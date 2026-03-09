@@ -1,6 +1,6 @@
 # 1:1 Template: The Kasvu Method
 
-Use this template alongside `frameworks/02-1on1-kasvu.md`.
+> 📖 New to this practice? Read the full framework first: [02-1on1-kasvu.md](../frameworks/02-1on1-kasvu.md)
 
 ---
 

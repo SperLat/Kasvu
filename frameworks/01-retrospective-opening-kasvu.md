@@ -1,5 +1,7 @@
 # Retrospective Opening: The Kasvu Method
 
+> 📋 Ready to use this? See the companion template: [01-retro-template.md](../templates/01-retro-template.md)
+
 ## Purpose
 
 This framework helps a leader open a team retrospective in a way that sets the right tone before any agenda item is discussed.

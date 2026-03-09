@@ -1,5 +1,7 @@
 # 1:1 Framework: The Kasvu Method
 
+> 📋 Ready to use this? See the companion template: [02-1on1-template.md](../templates/02-1on1-template.md)
+
 ## Purpose
 
 This framework helps a leader run a 1:1 conversation that develops the person, not just manages the task.

@@ -1,5 +1,7 @@
 # Team Health Check: The Kasvu Garden Audit
 
+> 📋 Ready to use this? See the companion template: [04-team-health-check-template.md](../templates/04-team-health-check-template.md)
+
 ## Purpose
 
 This framework gives a leader and their team a structured way to assess the current health of the system they are building together.

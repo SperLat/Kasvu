@@ -44,11 +44,11 @@ examples/     Sample applications, rollout ideas, and case-style narratives
 ## Start here
 If you are new to Kasvu, this is the suggested reading path:
 
-Read docs/philosophy.md
-Read docs/parable.md
-Explore the pillar files in docs/pillars/
-Try one framework from frameworks/
-Adapt one template from templates/
+- Read `docs/03-philosophy.md`
+- Read `docs/02-parable.md`
+- Explore the pillar files in `docs/pillars/`
+- Try one framework from `frameworks/`
+- Adapt one template from `templates/`
 
 ## The pillars
 Kasvu is built around six interconnected pillars.

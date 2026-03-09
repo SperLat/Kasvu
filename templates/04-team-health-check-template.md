@@ -1,6 +1,6 @@
 # Team Health Check Template: The Kasvu Garden Audit
 
-Use this template alongside `frameworks/04-team-health-check-kasvu.md`.
+> 📖 New to this practice? Read the full framework first: [04-team-health-check-kasvu.md](../frameworks/04-team-health-check-kasvu.md)
 
 ---
 

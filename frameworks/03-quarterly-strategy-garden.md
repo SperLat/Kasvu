@@ -1,5 +1,7 @@
 # Quarterly Strategy Review: The Garden Session
 
+> 📋 Ready to use this? See the companion template: [03-quarterly-strategy-template.md](../templates/03-quarterly-strategy-template.md)
+
 ## Purpose
 
 This framework helps a leadership team step back at the end of a quarter and assess not just what was produced, but how the system is growing.

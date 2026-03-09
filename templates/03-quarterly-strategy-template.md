@@ -1,6 +1,6 @@
 # Quarterly Strategy Template: The Garden Session
 
-Use this template alongside `frameworks/03-quarterly-strategy-garden.md`.
+> 📖 New to this practice? Read the full framework first: [03-quarterly-strategy-garden.md](../frameworks/03-quarterly-strategy-garden.md)
 
 ---
 

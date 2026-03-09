@@ -1,6 +1,6 @@
 # Retrospective Opening Template: The Kasvu Method
 
-Use this template alongside `frameworks/01-retrospective-opening-kasvu.md`.
+> 📖 New to this practice? Read the full framework first: [01-retrospective-opening-kasvu.md](../frameworks/01-retrospective-opening-kasvu.md)
 
 ---
 

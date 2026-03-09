@@ -1,5 +1,7 @@
 # Example: Building an Experimentation Culture
 
+> This is an illustrative example based on composite real-world patterns. The characters and organizations are fictional. The situations are not.
+
 ## Context
 
 The product team at a mid-sized e-commerce company had a problem they could not name precisely. They shipped consistently, met their deadlines, and had a clean roadmap. But nothing they shipped felt surprising. Every feature was safe, expected, and incremental.
@@ -12,7 +14,7 @@ Sofia found Pillar 4 of Kasvu and recognized the problem immediately. The team d
 
 ## What she did
 
-### Step 1: Name the actual problem
+### Name the actual problem
 
 Sofia stopped using the word innovation. She started using the word experiment.
 
@@ -20,7 +22,7 @@ She told the team: "We are not going to try to be more innovative. We are going 
 
 The reframe mattered. Innovation felt like a character trait the team either had or did not have. Experimentation felt like a practice anyone could participate in.
 
-### Step 2: Create a lightweight experiment pathway
+### Create a lightweight experiment pathway
 
 Sofia introduced a simple rule: any team member could propose an experiment using a single page that answered four questions.
 
@@ -33,13 +35,13 @@ If the test could be run in under two weeks and required no additional budget, i
 
 This was the innate permission principle made structural.
 
-### Step 3: Run the first cycle visibly
+### Run the first cycle visibly
 
 Sofia ran the first experiment herself to demonstrate the cycle. She picked a small, low-risk change to the checkout flow, ran it for ten days, measured both conversion rate and user sentiment through a short post-purchase survey, and shared the results with the team regardless of outcome.
 
 The experiment produced a small improvement. More importantly, it produced a story. The team could see what the cycle looked like from start to finish in real time.
 
-### Step 4: Protect learning over winning
+### Protect learning over winning
 
 Two of the first five experiments the team ran did not produce the hoped-for result. Sofia made a point of spending as much time on the debrief for those two as she did for the ones that worked.
 

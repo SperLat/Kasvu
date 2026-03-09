@@ -58,7 +58,7 @@ Greatness was the consequence."
 
 That distinction is the heart of Kasvu.
 
-Read the full parable in `docs/parable.md`.
+Read the full parable in [02-parable.md](./02-parable.md).
 
 ## The six pillars
 
@@ -169,9 +169,10 @@ toward growth from within.
 
 ## Where to go next
 
-- Read the origin: `docs/origin.md`. 
-- Read the parable: `docs/parable.md`
-- Explore the pillars: `docs/pillars/`
-- Try a framework: `frameworks/`
-- Adapt a template: `templates/`
+- Read the origin: [01-origin.md](./01-origin.md).
+- Read the parable: [02-parable.md](./02-parable.md).
+- Explore the pillars: [pillars/](./pillars/).
+- Try a framework: [frameworks/](../frameworks/).
+- Adapt a template: [templates/](../templates/).
+
 

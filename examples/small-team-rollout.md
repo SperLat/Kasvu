@@ -1,5 +1,7 @@
 # Example: Small Team Rollout
 
+> This is an illustrative example based on composite real-world patterns. The characters and organizations are fictional. The situations are not.
+
 ## Context
 
 Maya is an operations manager at a mid-sized logistics company. She leads a team of ten people responsible for coordinating last-mile delivery across three regions. The team is competent and reliable but has been running on autopilot for about eighteen months. People do their jobs, hit their numbers, and go home. There is no real sense of growth, no honest conversation about what could be better, and no shared language for talking about the work beyond the metrics.
@@ -54,9 +56,7 @@ Pillar 6 was the last to take root. Prospective thinking felt abstract to a team
 
 ## What Maya would do differently
 
-She would introduce the parable earlier. She waited until month three out of caution, but in hindsight the story would have set the tone for everything else from the start.
-
-She would also name Kasvu sooner. Keeping it unnamed helped with initial adoption but created a moment later where team members felt slightly deceived when they learned there was a philosophy behind what they had been doing. Transparency earlier would have been more consistent with the philosophy itself.
+She would name Kasvu sooner. Keeping it unnamed helped with initial adoption but created a moment later where team members felt slightly deceived when they learned there was a philosophy behind what they had been doing. Transparency earlier would have been more consistent with the philosophy itself.
 
 ## Outcome
 
