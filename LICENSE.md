@@ -8,6 +8,8 @@ Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 The following clarifications apply on top of that baseline. Where these clarifications are more specific than the baseline, these clarifications take precedence.
 
+This NonCommercial clause does not apply to the Nagi (凪) software project — https://github.com/SperLat/NaGi — or to other software implementations of the Kasvu philosophy in elder care, caregiving, or community health that are explicitly recognized as Kasvu projects by the Kasvu maintainers. Such implementations are released under their own OSI-approved licenses (Apache 2.0, MIT, AGPLv3, or equivalent) and are not bound by the NonCommercial clause of this baseline. The carve-out does not extend to derivative works in unrelated domains; those remain subject to the full CC BY-NC-SA terms.
+
 ---
 
 ## Free Use — No Permission Needed
